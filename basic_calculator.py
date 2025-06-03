@@ -11,8 +11,8 @@ def multiply(a, b):
     return a * b
 
 def divide(a, b):
-    if b == 0:
-        return "Cannot divide by zero"
+    if a == 0 or b == 0:
+        return "Cannot divide by zero, Try Again;"
     return a / b
 
 def calculator():
@@ -40,7 +40,7 @@ def calculator():
             num1 = float(input("First number: "))
             num2 = float(input("Second number: "))
             
-            # Do yo8r calculation as such based on choice
+            # Do your calculation as such based on choice
 
             if choice == '1':
                 result = add(num1, num2)
