@@ -1,13 +1,30 @@
-# Basic calculator using python
+# Python Calculator
 
-Hello, am Monish BCA graduate, currently in MCA specializing in Generative AI.
-This is my first python based mini project - a basic calculator that performs arithmetic operations using terminal input
+A simple calculator application built using Python to perform basic arithmetic operations.
 
-# Features :
-- add,subtract,divide,multiply
-- clean output with exception handling, positive,negative & decimal numbers, dividing by 0 and all
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- User-friendly console input
+- Handles basic input validation
 
-I practiced using python functions, loops & user input; handled 'value error' and 'keyboard interrupt'
+## Purpose
+This project was created to practice Python fundamentals such as:
+- Variables and data types
+- Conditional statements
+- Functions
+- User input and output
+- Basic error handling
 
+## How it works
+The user selects an operation, enters two numbers, and the program returns the result.
 
+## Learning outcome
+- Improved logical thinking
+- Better understanding of control flow
+- Hands-on practice with Python basics
 
+## Status
+Completed. Open to future improvements such as advanced operations or GUI support.
